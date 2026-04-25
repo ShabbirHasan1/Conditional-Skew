@@ -6,8 +6,7 @@ The current examples focus on `VIX` and `SPY`, with particular attention to whet
 
 In terms of prior literature, there is extensive work on fitting GED innovations to financial returns and a smaller literature on fitting SGED distributions to returns or conditional-volatility models. By contrast, there appears to be comparatively little work on SGED models in which the scale, skewness, and tail-shape parameters are explicit functions of a lagged state variable such as the level or log-level of `VIX`. That is the main direction explored here.
 
-A useful reference for the SGED itself is Panayiotis Theodossiou, *Skewed Generalized Error Distribution of Financial Assets and Option Pricing*:
-https://ssrn.com/abstract=2693070
+A useful reference for the SGED itself is Panayiotis Theodossiou, [Skewed Generalized Error Distribution of Financial Assets and Option Pricing](https://ssrn.com/abstract=2693070)
 
 ## Files
 
